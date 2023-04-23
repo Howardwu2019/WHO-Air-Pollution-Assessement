@@ -18,19 +18,20 @@ The data are given in the txt format and using | as the column separator. There 
 
 StationData-NY_QueensCollege.txt
 
-Data Source: New York State - Department of Environmental Conservation
-Parameters: PM2.5
-Station: Queens College
-Start Date: 2016-09-01
-End Date: 2017-04-01
-Granularity: 1 hour
-StationData-Bogota_SanCristobal.txt
+- Data Source: New York State - Department of Environmental Conservation
+- Parameters: PM2.5
+- Station: Queens College
+- Start Date: 2016-09-01
+- End Date: 2017-04-01
+- Granularity: 1 hour
+- StationData-Bogota_SanCristobal.txt
 
 Data Source: Red de Monitoreo de Calidad del Aire de Bogotá - RMCAB (Bogota Air Quality Monitoring Network)
-Parameters: PM2.5, PM10
-Station: San Cristobal
-Start Date: 2016-09-01
-End Date: 2017-04-01
-Granularity: 1 hour
-Practicalities
+- Parameters: PM2.5, PM10
+- Station: San Cristobal
+- Start Date: 2016-09-01
+- End Date: 2017-04-01
+- Granularity: 1 hour
+
+# Practicalities
 Analyze the provided data and answer the questions to the best of your abilities. Include the relevant tables/graphs/visualization to explain and support your findings. Make sure that the solution reflects your entire thought process including the preparation of data - it is more important how the code is structured rather than just the final result or plot. You are expected to spend no more than 1-3 hours on this project.
